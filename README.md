@@ -1,3 +1,15 @@
+# Noble Jackal 99 Errors in GEO v1.0.0
+
+[![DOI: Zenodo 99 Errors](https://zenodo.org/badge/DOI/10.5281/zenodo.21992388.svg)](https://doi.org/10.5281/zenodo.21992388)
+[![DOI: Figshare 99 Errors](https://img.shields.io/badge/DOI-Figshare%2033297417-blue)](https://doi.org/10.6084/m9.figshare.33297417)
+[![ORCID](https://img.shields.io/badge/ORCID-Kaan%20Muraz-green)](https://orcid.org/0009-0000-2277-9009)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+**99 Mistakes That Destroy Visibility in ChatGPT, Perplexity, Gemini, Claude**
+Companion to GEO-Framework v1.0.0
+
+Official Website: https://noblejackal.com/geo-99-errors/
+
 # 99 GEO Errors - What Breaks AI Search
 
 Companion to [GEO-Framework v1.0.0](https://github.com/nobelJackal/GEO-Framework)
