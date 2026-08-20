@@ -6,7 +6,7 @@ Official analysis of 99 common mistakes that destroy visibility in LLMs: ChatGPT
 
 **Author:** Kaan Muraz | **ORCID:** https://orcid.org/0009-0000-2277-9009
 **DOI:** https://doi.org/10.5281/zenodo.21991762
-**Website:** https://noblejackal.com/geo-framework/
+**Website:** https://noblejackal.com/geo-99-errors/
 **License:** CC BY 4.0
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2277--9009-green)](https://orcid.org/0009-0000-2277-9009)
