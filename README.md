@@ -24,4 +24,4 @@ Official analysis of 99 common mistakes that destroy visibility in LLMs: ChatGPT
 - Before/After examples
 
 ### Citation
-Muraz, K. (2026). 99 GEO Errors. Zenodo. https://doi.org/10.5281/zenodo.10.5281/zenodo.21992388
+Muraz, K. (2026). 99 GEO Errors. Zenodo. https://doi.org/10.5281/zenodo.21992388
