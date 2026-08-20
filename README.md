@@ -17,7 +17,7 @@ Official analysis of 99 common mistakes that destroy visibility in LLMs: ChatGPT
 - [ES - Español](./NobleJackal_99_Errors_in_GEO_ES_v1.0.0.pdf)
 - [RU - Русский](./NobleJackal_99_Errors_in_GEO_RU_v1.0.0.pdf)
 - [AR - العربية (Arapça)](./NobleJackal_99_Errors_in_GEO_AR_v1.0.0.pdf)
-- 
+
 ### PDF Downloads (v1.0.0)
 Uploading after Archive.org limit resets.
 
